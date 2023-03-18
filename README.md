@@ -5,7 +5,7 @@ There are eight modules in the repository, organized into four subject areas.
 
 * **Linear Algebra**
    * 1: [Intro to Linear Algebra](https://github.com/Harish2f/Mathematics-for-ML-DL/blob/main/notebooks/1-intro-to-linear-algebra.ipynb)
-   * 2: [Linear Algebra II: Matrix Operations](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb)
+   * 2: [Linear Algebra II: Matrix Operations](https://github.com/Harish2f/Mathematics-for-ML-DL/blob/main/notebooks/2-linear-algebra-ii.ipynb)
 * **Calculus**
    * 3: [Calculus I: Limits & Derivatives](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
    * 4: [Calculus II: Partial Derivatives & Integrals](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/4-calculus-ii.ipynb)
